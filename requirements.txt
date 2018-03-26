@@ -1,0 +1,17 @@
+amqp==2.2.2
+billiard==3.5.0.3
+celery==4.1.0
+docopt==0.6.2
+kombu==4.1.0
+mosestokenizer==1.0.0
+numpy==1.14.0
+openfile==0.0.6
+pkg-resources==0.0.0
+pycld2==0.31
+pytz==2017.3
+PyYAML==3.12
+regex==2018.1.10
+scikit-learn==0.19.1
+scipy==1.0.0
+toolwrapper==0.3.0
+vine==1.1.4
